@@ -20,7 +20,7 @@ You can check the [Spotipy API](https://spotipy.readthedocs.io/) for more inform
 
 ### Architecture
 
-<img width="1163" alt="Screenshot 2023-03-16 at 15 17 22" src="">
+<img width="1163" alt="AWS architecture" src="https://github.com/eepanc/Spotify_popularity_etl/blob/main/spotify.png">
 
 ### Workflow
 
